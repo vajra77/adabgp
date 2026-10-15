@@ -1,0 +1,10 @@
+name = "adabgp"
+description = "PoC implementation of BGP protocol daemon"
+version = "0.1.0-dev"
+
+authors = ["Francesco Ferreri"]
+maintainers = ["Francesco Ferreri <f.ferreri@namex.it>"]
+maintainers-logins = ["vajra77"]
+licenses = "GPL-3.0-or-later"
+website = "https://github.com/vajra77/adabgp"
+tags = ["bgp", "ada", "routing"]
